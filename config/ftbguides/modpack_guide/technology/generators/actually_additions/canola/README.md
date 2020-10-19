@@ -4,7 +4,7 @@ First things first, you'll want to farm some Canola. You can use any farming blo
 ![](farming.png)
 
 Next, put the Canola into a Canola Press to make Canola Oil. In the Oil Generator, Canola Oil generates 80,000 RF at 40 RF/t, or you can continue processing the Oil to make it better.
-![The Canola Press will automatically push Canola Oil into any fluid continers that are touching it](press.png)
+![The Canola Press will automatically push Canola Oil into any fluid containers that are touching it](press.png)
 
 Move the Canola Oil into a Fermenting Barrel (you can just put the Fermenting Barrel directly next to the Canola Press) and it will turn into Refined Canola Oil, which generates 192,000 RF at 80 RF/t.
 ![The Canola Press works faster than the Fermenting Barrel, so you may want to use multiple. If using Fluiducts, also use Filters to prevent the Refined Canola Oil from going through those pipes](fermenting.png)

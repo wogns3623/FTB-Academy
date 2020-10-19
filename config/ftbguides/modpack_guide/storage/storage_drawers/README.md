@@ -44,10 +44,6 @@ The Void Upgrade will destroy incoming items if the drawer is full. This is usef
 Redstone Upgrades will make the Drawer emit a Redstone signal depending on the amount of items it stores.
 
 There are some other items that are useful for Drawers.
-![](tape.png)
-![Packing Tape](item:storagedrawers:tape)
-Normally when you break a Drawer, all the items pop out and it makes a huge mess (and lags the game if there's too many, so definitely don't do that). You can use Tape on the Drawer to make it so you can break it without losing your items.
-Be warned, if you use the Drawer in a crafting recipe, it will destroy all items in it.
 
 ![](quantify.png)
 ![Quantify Key](item:storagedrawers:quantify_key)

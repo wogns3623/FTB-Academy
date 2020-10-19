@@ -44,10 +44,6 @@ Void Upgrade는 드로워가 가득 찼을때 들어오는 아이템들을 없�
 Redstone Upgrade들은 드로워에 아이템이 얼마나 들어있는지에 따라 레드스톤 신호를 내보내도록 만들어줍니다.
 
 드로워와 함께 사용하기 좋은 다른 아이템들도 있습니다.
-![](tape.png)
-![Packing Tape](item:storagedrawers:tape)
-기본적으로는 드로워를 부시면 안에 들어있는 내용물들이 전부 튀어나와 엄청난 난리를 치게 될겁니다. 만약 드로워에 엄청난 양의 아이템이 들어있었다면 랙이 심하게 걸릴 수 있으니 절대 추천드리지 않습니다. 드로워에 Packing Tape를 사용하면 부숴도 아이템이 튀어나오지 않습니다.
-만약 포장된 드로워를 조합에 사용한다면 안에 들어있던 아이템은 전부 사라지니 주의하세요.
 
 ![](quantify.png)
 ![Quantify Key](item:storagedrawers:quantify_key)

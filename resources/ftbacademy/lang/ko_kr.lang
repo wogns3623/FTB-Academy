@@ -1724,8 +1724,7 @@ academy.starlightinfuser.text3=수정 도구들에 액상 별빛을 주입해 �
 
 academy.treebeacon.title=Treacon
 academy.treebeacon.desc=나무 신호기를 만드세요
-academy.treebeacon.text1=나무 신호기(Tree beacon) 주변의 묘묙이 자라면 부술 수 없지만 지속적으로 나무 원목과 묘묙을 떨어뜨리는 특별한 나무가 됩니다.
-academy.treebeacon.text2=나무 신호기는 Dynamic Trees 모드의 묘묙에는 반응하지 않습니다.
+academy.treebeacon.text=나무 신호기(Tree beacon) 주변의 묘묙이 자라면 부술 수 없지만 지속적으로 나무 원목과 묘묙을 떨어뜨리는 특별한 나무가 됩니다.
 
 academy.celestialcrystal.desc=천상 수정을 만드세요.
 academy.celestialcrystal.text1=천상 수정(Celestial Crystal)은 일반 암수정에 비해 더 크고 강력합니다. 일반 암수정이 사용되는 거의 모든 조합법에서 천상 수정을 대신 사용할 수 있으며, 대부분 더 좋은 결과를 냅니다.
@@ -2052,7 +2051,7 @@ academy.overlay.as.8=야광 제작대를 공명 완드로 우클릭하여 조합
 academy.overlay.botania.title=보타니아
 academy.overlay.botania.1=보타니아 교실로 이동하세요
 academy.overlay.botania.2=상자에서 아이템들을 꺼내세요
-academy.overlay.botania.3=연금술기에서 꽃을 제작하세요 (JEI에서 조합법을 확인하세요)
+academy.overlay.botania.3=오른쪽에 있는 꽃잎 연금술기에서 꽃을 제작하세요 (JEI에서 조합법을 확인하세요)
 academy.overlay.botania.4=꽃잎 연금술기에 물을 채우세요
 academy.overlay.botania.5=밝은 회색 꽃잎 하나, 빨강색 꽃잎 하나, 갈색 꽃잎 두개를 꽃잎 연금술기에 던져넣고, 씨앗을 던져넣어 불먹이 꽃을 만드세요
 academy.overlay.botania.5_5=만약 꽃잎을 잘못 던져 넣었다면, 빈손으로 연금술기를 우클릭해 마지막으로 넣은 아이템을 꺼낼 수 있습니다

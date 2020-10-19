@@ -10,7 +10,7 @@ At the very top of the Guide menu, you can see the directory of the page you're 
 You can change the theme, refresh the guide (which is only really useful for modpack makers), and close the guide using the buttons at the top right. You can also close the guide by hitting E or Escape.
 
 Directly under that, you can see the available pages you can go to. Click on the name of the page to open it.
-![](chapters.png)
+![Note that this is an image of the page list, not the actual page list. That's at the top of the page.](chapters.png)
 
 Some images can be hovered over to see extra text.
 ![Hi!](/magic/twilight_forest/main.png)

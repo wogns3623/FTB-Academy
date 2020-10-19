@@ -915,7 +915,7 @@ academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF
 
 academy.plasticmaking.title=Flubber
 academy.plasticmaking.desc=Make some Plastic
-academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
+academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. Logs will slowly be used up until they break, and will need to be replaced.
 academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
 
 academy.energycell.title=Saved for a Rainy Day
@@ -1714,8 +1714,7 @@ academy.starlightinfuser.text3=You can infuse Crystal tools to give them special
 
 academy.treebeacon.title=Treacon
 academy.treebeacon.desc=Make a Tree Beacon
-academy.treebeacon.text1=Saplings grown near a Tree Beacon will grow into special trees that can't be broken, but will passively drop their logs and saplings.
-academy.treebeacon.text2=The Tree Beacon only works with regular Saplings, not Dynamic Trees ones.
+academy.treebeacon.text=Saplings grown near a Tree Beacon will grow into special trees that can't be broken, but will passively drop their logs and saplings.
 
 academy.celestialcrystal.desc=Make a Celestial Crystal
 academy.celestialcrystal.text1=Celestial Crystals are stronger and bigger than Rock Crystals. In almost any situation where a recipe calls for a Crystal, a Celestial Crystal will do a better job.

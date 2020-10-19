@@ -1,4 +1,4 @@
-# Gear, Weapons, and Tool
+# Gear, Weapons, and Tools
 
 This chapter is dedicated to showing off items added by mods.
 
